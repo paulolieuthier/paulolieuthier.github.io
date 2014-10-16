@@ -1,4 +1,4 @@
-paulolieuthier.github.io
-========================
+Paulo Lieuthier
+===============
 
 Personal Homepage

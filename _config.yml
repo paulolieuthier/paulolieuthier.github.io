@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Paulo Lieuthier
+tagline:          'Yet another linux geek blog'
+description:      'Yet another linux geek blog.'
+url:              http://paulolieuthier.github.io
+baseurl:          /
+
+author:
+  name:           'Paulo Lieuthier'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/paulolieuthier/paulolieuthier.github.io
