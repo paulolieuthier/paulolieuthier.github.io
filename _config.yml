@@ -16,6 +16,14 @@ baseurl:          /
 author:
   name:           'Paulo Lieuthier'
 
+defaults:
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            comments: true
+
 paginate:         5
 
 # Custom vars
